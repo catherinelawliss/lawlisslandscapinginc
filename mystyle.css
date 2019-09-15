@@ -25,6 +25,7 @@
 	{
 	 font-size: 13px; 
 	 color: #F64C73;
+	}
 		
 	p
 	{
@@ -49,11 +50,9 @@
    	 font-weight: bold;
   	} 
 
-	a.hover 
+	a:hover 
 	{
     	text-decoration: underline;
     	color: #242582;
     	font-weight: bolder;
-} 
-	}
-
+	} 
