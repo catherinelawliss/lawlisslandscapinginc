@@ -19,11 +19,13 @@
 	  color: #F64C72;
 	  font-size: 14px;
  	}
-	
+	h3
+	{
+	 font-size: 13px; 
+	 color: #F64C73;
 	p
 	{
 		font-size: 12px;
-		font-type: italic;
 	}
 	
 	a {
