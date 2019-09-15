@@ -2,7 +2,7 @@
 	body
 	{
 		font-family: Arial;
-		background-color: #99738E;
+		background-color: #FFF;
 	}
 	
 	h1
@@ -48,6 +48,7 @@
     	text-decoration: none;
     	color: #F64C72;
    	 font-weight: bold;
+	background-color: #99738E;
   	} 
 
 	a:hover 
@@ -56,3 +57,4 @@
     	color: #242582;
     	font-weight: bolder;
 	} 
+
