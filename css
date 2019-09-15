@@ -1,0 +1,30 @@
+<style type "text/css">
+	body
+	{
+		font-family: Arial;
+	}
+	
+	h1
+	{
+		color: #101357;
+		text-align: center;
+	}
+	
+	p
+	{
+		font-size: 16px;
+    font-weight:bold;
+	}
+	
+a {
+    text-decoration: none;
+    color: ##fea49f;
+    font-weight: bold;
+  } 
+a:hover {
+    text-decoration: underline;
+    color: #fbaf08;
+    font-weight: bolder;
+} 
+	}
+</style>
